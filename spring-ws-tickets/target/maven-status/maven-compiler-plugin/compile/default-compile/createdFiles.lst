@@ -1,0 +1,9 @@
+xpadro/spring/ws/endpoint/TicketEndpoint.class
+xpadro/spring/ws/types/package-info.class
+xpadro/spring/ws/types/TicketResponse.class
+xpadro/spring/ws/service/impl/TicketServiceimpl.class
+xpadro/spring/ws/service/TicketService.class
+xpadro/spring/ws/types/TicketRequest.class
+xpadro/spring/ws/util/DateUtils.class
+xpadro/spring/ws/types/ObjectFactory.class
+xpadro/spring/ws/model/TicketConfirmation.class

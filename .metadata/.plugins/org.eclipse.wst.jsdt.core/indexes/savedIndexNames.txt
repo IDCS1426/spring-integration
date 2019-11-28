@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/Volumes/DEV/java/workspaces/wcd/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+990784490.index

@@ -1,0 +1,11 @@
+xpadro/spring/integration/ws/router/ServiceRouter.class
+xpadro/spring/integration/ws/types/TicketRequest.class
+xpadro/spring/integration/ws/registry/TicketRegistry.class
+xpadro/spring/integration/ws/types/package-info.class
+xpadro/spring/integration/ws/types/ObjectFactory.class
+xpadro/spring/integration/ws/utils/DateUtils.class
+xpadro/spring/integration/ws/interceptor/MyInterceptor.class
+xpadro/spring/integration/ws/types/TicketResponse.class
+xpadro/spring/integration/ws/activator/ClientServiceActivator.class
+xpadro/spring/integration/ws/gateway/AsyncTicketService.class
+xpadro/spring/integration/ws/gateway/TicketService.class

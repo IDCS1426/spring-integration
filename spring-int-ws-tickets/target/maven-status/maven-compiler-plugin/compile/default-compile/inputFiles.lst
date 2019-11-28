@@ -1,0 +1,11 @@
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/router/ServiceRouter.java
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/interceptor/MyInterceptor.java
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/types/ObjectFactory.java
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/types/TicketResponse.java
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/types/package-info.java
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/gateway/AsyncTicketService.java
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/registry/TicketRegistry.java
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/activator/ClientServiceActivator.java
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/utils/DateUtils.java
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/gateway/TicketService.java
+/Volumes/DEV/java/workspaces/wcd/spring-int-ws-tickets/src/main/java/xpadro/spring/integration/ws/types/TicketRequest.java
