@@ -10,7 +10,7 @@
 
 	<properties>
 		<spring-version>4.0.0.RELEASE</spring-version>
-		<spring-integration-version>3.0.0.RELEASE</spring-integration-version>
+		<spring-integration-version>5.2.1.RELEASE</spring-integration-version>
 		<junit-version>4.9</junit-version>
 	</properties>
 
